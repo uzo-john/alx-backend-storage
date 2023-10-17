@@ -1,0 +1,3 @@
+// how tpo insert a document inside a database.
+//document in the collection named school.
+db.school.insert({Name: "Holberton school"});
