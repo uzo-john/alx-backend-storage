@@ -1,0 +1,2 @@
+//method that list all mongoDB database
+show dbs;
