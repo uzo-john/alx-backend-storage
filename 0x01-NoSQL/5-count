@@ -1,0 +1,2 @@
+//write a script that display the number of documents in the collection.
+db.school.find().count();
